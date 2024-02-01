@@ -15,19 +15,6 @@ Visuelle Einblicke in das Projekt:
 Notwendiges für die Ausführung:
 Installierter Unity Hub mit Unity Editor in passender Version
 
-Anforderungsliste:
- Antwortmöglichkeiten
- Fragen
- Weiter Button
- Timer
- Counter
- farbiges Feedback
- Mehrfachauswahl der Antworten
- Randomized Questions Button
- randomisierte Antworten
- Bilder
- Endscreen
- Audio
 Limitationen:
 Konnte den Score und Audio nicht einbauen
 
